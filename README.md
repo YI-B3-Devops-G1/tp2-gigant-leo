@@ -22,7 +22,7 @@ github_username : Rowix4
 ```
     cd tp2-gigant-leo
 ```
-Puis :
+- Puis :
 ```
     npm install
 ```
